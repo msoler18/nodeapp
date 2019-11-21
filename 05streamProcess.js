@@ -1,3 +1,5 @@
+/* Stream with process object */
+
 'use strict'
 
 var stdin = process.stdin,
